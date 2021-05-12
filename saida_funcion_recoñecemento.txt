@@ -1,0 +1,10 @@
+Dentro de topic
+
+{"processing_time":73.268,
+"results":[],
+"filename":"0856_zo0Mg_1eb96b30-e451-4837-af2c-3f8daac128c1.jpg",
+"version":1,
+"camera_id":null,
+"timestamp":"2021-05-10T08:56:18.279000Z",
+"status":201,
+"statusText":"Created"}

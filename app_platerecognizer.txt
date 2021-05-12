@@ -1,0 +1,13 @@
+
+CLOUD API PLAN:
+
+	API Token: 5af5eb6a1a9329ac679974e397e16782cb8da904
+	2500 lecturas por mes
+
+
+SDK PLAN:
+
+	Instalación local
+	API Token: 5af5eb6a1a9329ac679974e397e16782cb8da904
+
+STREAM PLAN: plan de pago, de momento descartado.

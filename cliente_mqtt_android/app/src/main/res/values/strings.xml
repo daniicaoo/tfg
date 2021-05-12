@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">probatfg</string>
+    <string name="but_main">but_main</string>
+    <string name="OK_str">Conectar</string>
+    <string name="but_paramactiv">but_paramactiv</string>
+    <string name="but_add_str">Añadir Subscripción</string>
+    <string name="but_clear_str">Limpar</string>
+    <string name="et_text_str">et_text_str</string>
+    <string name="tv_num">tv_num</string>
+    <string name="web_str">web_str</string>
+    <string name="but_activateDoor">Activar</string>
+    <string name="but_addSuscription">Añadir Subscripcion</string>
+
+
+</resources>
